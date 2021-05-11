@@ -1,8 +1,7 @@
 # Trading Algorithms
 
-This repository contains the customized trading algorithms that I have created using the Quantopian IDE:
+This repository contains the customized trading algorithms that I have created using the Quantopian IDE. Quantopian closed in 2020:
 
-Go to [Quantopian](https://www.quantopian.com/algorithms) and copy/paste any of the algorithms to test!
 
 Enjoy! ^_^
 
